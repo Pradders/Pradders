@@ -2,4 +2,4 @@
 - 👀 I’m interested in renewable energy, carbon-zero and data analytics, as well as chess, music, exercise, languages (not just coding!), teaching and the outdoors.
 - 🌱 I’m currently learning data science and machine learning, but also open to learn other new coding application skills.
 - 💞️ I’m looking to collaborate on future projects.
-- 📫 Please reach out to me by email (pradeeps.murthy@hotmail.com) or by LinkedIn (https://www.linkedin.com/in/pradeep-murthy-282aa4133/).
+- 📫 Please reach out to me by email (pradeeps.murthy95@gmail.com) or by LinkedIn (https://www.linkedin.com/in/pradeep-murthy-282aa4133/).
