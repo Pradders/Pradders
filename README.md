@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Pradders (real name: Pradeep) from Sydney, Australia!
 - 👀 I’m interested in renewable energy, carbon-zero and data analytics, as well as chess, music, exercise, languages (not just coding!), teaching and the outdoors.
-- 🌱 I’m currently learning data science and machine learning, but also open to learn other new coding application skills.
+- 🌱 I’m currently learning data science and machine learning, as well as applying (automated) codes to Density Functional Theory and Atomic Simulations, but also open to learn other new coding application skills.
 - 💞️ I’m looking to collaborate on future projects.
 - 📫 Please reach out to me by email (pradeeps.murthy95@gmail.com) or by LinkedIn (https://www.linkedin.com/in/pradeep-murthy-282aa4133/).
